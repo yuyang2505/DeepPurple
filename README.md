@@ -37,3 +37,11 @@ npm install
 npm run dev
 ```
 
+## Development Guidelines
+
+For development purposes, please create your own branch for any new features or changes instead of working directly on the main branch. You can create a new branch using the following command:
+
+```bash
+git checkout -b your-branch-name
+```
+
